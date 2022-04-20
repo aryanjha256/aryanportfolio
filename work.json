@@ -1,0 +1,53 @@
+{
+  "projects": [
+    {
+      "name": "First Featured Project",
+      "descripton": "You only live once, but if you do it right, once is enough.",
+      "imgurl": "/postcover.jpg",
+      "url": "https://itsaryan.vercel.app/",
+      "sourcecodeurl": "https://github.com/aryanjha256"
+    },
+    {
+      "name": "Second Featured Project",
+      "descripton": "Life is what happens when you're busy making other plans.",
+      "imgurl": "/postcover.jpg",
+      "url": "https://itsaryan.vercel.app/",
+      "sourcecodeurl": "https://github.com/aryanjha256"
+    },
+    {
+      "name": "Third Featured Project",
+      "descripton": "Get busy living or get busy dying.",
+      "imgurl": "/postcover.jpg",
+      "url": "https://itsaryan.vercel.app/",
+      "sourcecodeurl": "https://github.com/aryanjha256"
+    },
+    {
+      "name": "Fourth Featured Project",
+      "descripton": "If you want to live a happy life, tie it to a goal, not to people or things.",
+      "imgurl": "/postcover.jpg",
+      "url": "https://itsaryan.vercel.app/",
+      "sourcecodeurl": "https://github.com/aryanjha256"
+    },
+    {
+      "name": "Fifth Featured Project",
+      "descripton": "Never let the fear of striking out keep you from playing the game.",
+      "imgurl": "/postcover.jpg",
+      "url": "https://itsaryan.vercel.app/",
+      "sourcecodeurl": "https://github.com/aryanjha256"
+    },
+    {
+      "name": "Sixth Featured Project",
+      "descripton": "Your time is limited, so don't waste it living someone else's life.",
+      "imgurl": "/postcover.jpg",
+      "url": "https://itsaryan.vercel.app/",
+      "sourcecodeurl": "https://github.com/aryanjha256"
+    },
+    {
+      "name": "DashBoard Featured Project",
+      "descripton": "Your time is limited, so don't waste it living someone else's life.",
+      "imgurl": "/profile.jpg",
+      "url": "https://itsaryan.vercel.app/",
+      "sourcecodeurl": "https://github.com/aryanjha256"
+    }
+  ]
+}
